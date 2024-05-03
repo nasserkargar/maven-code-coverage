@@ -8,7 +8,9 @@
     <artifactId>maven-code-coverage</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-
+    <scm>
+        <developerConnection>scm:git:https://github.com/nasserkargar/maven-code-coverage.git</developerConnection>
+    </scm>
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
