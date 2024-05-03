@@ -5,7 +5,7 @@
     <groupId>com.mkyong.examples</groupId>
     <artifactId>maven-code-coverage</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <scm>
         <developerConnection>scm:git:https://github.com/nasserkargar/maven-code-coverage.git</developerConnection>
       <tag>maven-code-coverage-1.0</tag>
