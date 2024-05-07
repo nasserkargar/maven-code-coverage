@@ -14,7 +14,7 @@
     </distributionManagement>    
     <scm>
         <developerConnection>scm:git:https://github.com/nasserkargar/maven-code-coverage.git</developerConnection>
-        <tag>maven-code-coverage-1.4</tag>
+        <tag>maven-code-coverage-1.3-SNAPSHOT</tag>
     </scm>
     <properties>
         <!-- https://maven.apache.org/general.html#encoding-warning -->
