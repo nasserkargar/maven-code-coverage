@@ -5,7 +5,7 @@
     <groupId>com.mkyong.examples</groupId>
     <artifactId>maven-code-coverage</artifactId>
     <packaging>jar</packaging>
-    <version>1.3</version>
+    <version>1.6-SNAPSHOT</version>
     <distributionManagement>
         <repository>
             <id>local-repository</id>
